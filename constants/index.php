@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by IntelliJ IDEA.
- * User: maria
+ * User: Mary Nyamor
  * Date: 3/13/16
  * Time: 1:13 AM
  */

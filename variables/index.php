@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>VARIABLES</title>
-</head>
-<body>
 <?php
-//defining variables
-//string
+/**
+ * Created by IntelliJ IDEA.
+ * User: Mary Nyamor
+ * Date: 3/13/16
+ * Time: 1:13 AM
+ */
 
 $my_favcolor = 'red';
 $my_name = 'Mary';
@@ -20,6 +17,3 @@ $logged_in = true;
 
 //Floating points -fractional number with a decimal point
 $car_speed = 100.34;
-?>
-</body>
-</html>
