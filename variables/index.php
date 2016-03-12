@@ -9,9 +9,11 @@
 //defining variables
 //string
 
-$color = 'red';
+$my_favcolor = 'red';
+$my_name = 'Mary';
+$my_age = 14;
 
-echo $color;
+print("My name is $my_name! <br/> 1'm $my_age years old and like the color $my_favcolor");
 
 //boolean - specifies a value of true or false
 $logged_in = true;
